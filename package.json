@@ -2,7 +2,7 @@
   "name": "bako_peneker01",
   "version": "3.4.5",
   "description": "bako_is bako",
-  "main": "example",
+  "main": "gethead",
   "scripts": {
     "test": "bako"
   },
